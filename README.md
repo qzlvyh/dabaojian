@@ -2,7 +2,7 @@
 <p>玉帝14e21174d5609b61e25a683ab88a6105###2022/02/21###</p>
 <p>法王之王a2dda2f7956d48ce6c5c292a194c0f56###2021/01/12###</p>
 <p>Mine7c58ccb7e00e747dde1044b056ac31bf###2022/11/25###</p>
-<p>送礼接受songli_receiver###$99$$188452$$$g5uy6u</p>
+<p>送礼接受songli_receiver###$999$$188452$$$g5uy6u</p>
 <p>小流氓a1d15af466d94768e80c241748db8791###2022/01/12###</p>
 <p>过期可更改显示内容canbeeditedcontents###力哥奥服最新消息称信百慕大</p>
 <p>未过期可更改显示内容webeditedcontents###欢迎使用</p>
